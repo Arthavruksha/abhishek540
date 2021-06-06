@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ---
 ### Lnaguage:
 
-> **Python, C++, R, JavaScript**
+> **Python, C/C++, JavaScript, MySQL, R**
 
 ### Tools and Technologies: 
 
-> **Matlab, Sql, Scikit, Tableau**
+> **Data Analysis / Image Processing / Statistics / Scikit / Web Scraping / Adobe products / Tableau / Ms Office/ Git / HTML / CSS / Latex**
 
 
 
