@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on various Data Analytics related Project
 - 🌱 I’m currently learning Data Science, Front-End web development
 - 👯 I’m looking to collaborate on Data Science or UI-based Project.
-- 🤔 I’m looking for help with study partner for statistics
+- 🤔 I’m looking for help in statistics and neural network.
 
 - ⚡ Fun fact: I love to code in the morning.- <!-- - 💬 Ask me about anything
 - 📫 How to reach me: ...
