@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science or UI-based Project.
 - 🤔 I’m looking for help in statistics and neural network.
 
-- ⚡ Fun fact: I love to code in the morning.- <!-- - 💬 Ask me about anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
+- ⚡ Fun fact: I love to code in the morning.
+
 ---
 ### Lnaguage:
 
